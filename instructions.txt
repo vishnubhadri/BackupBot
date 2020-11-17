@@ -1,0 +1,8 @@
+reddit save api
+
+PIP INSTALL PRAW 
+
+PIP INSTALL internetarchive
+
+reddit.submission('gayyho').url
+
